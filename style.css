@@ -1,0 +1,12 @@
+/* Palette */
+:root {
+  --dark:       #4016a1;  
+  --light:      #f06717;   
+  --background: #9646d6;  
+  --accent:     #5728d6;   
+  --warning:    #ce1f16;   
+
+}
+h1{ color: var(--dark); }
+body{ background-color: var(--background); }
+.p{ background-color: var(--accent); }
